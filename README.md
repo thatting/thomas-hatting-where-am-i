@@ -1,4 +1,4 @@
-# thomas-hatting-where-am-i
+# Project Where Am I
 
 PROJECT LICENSE
 
